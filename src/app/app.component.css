@@ -1,0 +1,44 @@
+.nav-container{
+    background-color : #222b22;
+    display: flex;
+    justify-content: space-evenly;
+}
+img {
+    
+}
+
+#logo {
+    border-radius: 40%;
+}
+a {
+    text-decoration: none;
+    font-family: "quiroh", Times, serif;
+}
+
+ul{
+    
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 10px; 
+    margin-right: 100px;
+  }
+
+  li:hover {
+      text-decoration: underline;
+  }
+
+ li a {
+     color: white;
+     
+ }
+ .main {
+     display: inline;
+ }
+
+.main img{
+    margin-left: 45px;
+    margin-top: 30px; 
+}
